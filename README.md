@@ -2,6 +2,7 @@
 
 * [Airbnb Design](http://airbnb.design/)
 * [bound baw](http://boundbaw.com/)
+* [スイーツとお菓子のおいしい話が詰まった、CAKE\.TOKYO](https://cake.tokyo/)
 * [EDIT LIFE](http://editlife.jp/)
 * [inside FICC \| FICCのカルチャーを紹介するブログ](https://www.ficc.jp/inside/)
 * [Financial Times](https://www.ft.com/)
