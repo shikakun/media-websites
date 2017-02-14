@@ -14,6 +14,7 @@
 * [カクヨム \- 「書ける、読める、伝えられる」新しい小説投稿サイト](https://kakuyomu.jp/)
 * [キナリノ \- 暮らしを素敵に丁寧に。](https://kinarino.jp/)
 * [くらしのきほん \| あなたのくらしはもっと楽しくなる](https://kurashi-no-kihon.com/)
+* [lute – lute / ルーテは、音楽を中心に現代のカルチャー全体を照射するメディアレーベルです。様々なのジャンルの最先端で活躍するクリエイターとともに、新たなシーンとプレイヤーを生み出すべく、コンテンツを発信しています。](https://lutemedia.com/)
 * [Medium](https://medium.com/)
 * [くらしの良品研究所 \| 無印良品](http://www.muji.net/lab/)
 * [特集 \- Yahoo\!ニュース](http://news.yahoo.co.jp/feature)
