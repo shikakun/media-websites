@@ -25,6 +25,7 @@
 * [スチーヴ \| そうか、僕らはくらしのプラットフォームを作りたかったんだ。](https://schiive.com/)
 * [少年ジャンプ＋｜少年ジャンプが贈る最強！無料！のWebマンガ誌](https://shonenjumpplus.com/)
 * [Ecommerce Marketing Blog \- Ecommerce News, Online Store Tips & More by Shopify](https://www.shopify.com/blog)
+* [ファッション雑誌『装苑』のオフィシャルサイト　ファッション、ビューティ、カルチャーなどの厳選した情報をお届け！ 装苑ONLINE](http://soen.tokyo/)
 * [UXデザイン会社Standardのブログ](https://www.standardinc.jp/reflection/)
 * [さんち 〜工芸と探訪〜](https://sunchi.jp/)
 * [トピックス｜Nintendo](https://topics.nintendo.co.jp/index.html)
