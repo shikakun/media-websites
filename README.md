@@ -27,4 +27,5 @@
 * [UXデザイン会社Standardのブログ](https://www.standardinc.jp/reflection/)
 * [さんち 〜工芸と探訪〜](https://sunchi.jp/)
 * [トピックス｜Nintendo](https://topics.nintendo.co.jp/index.html)
+* [Wantedly Feed \| シゴトでココロオドルナレッジがここに](https://www.wantedly.com/feed)
 * [WIRED\.jp](http://wired.jp/)
