@@ -2,10 +2,12 @@
 
 * [Airbnb Design](http://airbnb.design/)
 * [bound baw](http://boundbaw.com/)
+* [文春オンライン \| 週刊文春も読めるニュースサイト](http://bunshun.jp/)
 * [スイーツとお菓子のおいしい話が詰まった、CAKE\.TOKYO](https://cake.tokyo/)
 * [EDIT LIFE](http://editlife.jp/)
 * [inside FICC \| FICCのカルチャーを紹介するブログ](https://www.ficc.jp/inside/)
 * [Financial Times](https://www.ft.com/)
+* [福智町立図書館・歴史資料館「ふくちのち」ができるまで](http://fukuchinochi.com/pre/)
 * [箱庭 haconiwa｜女子クリエーターのためのライフスタイル作りマガジン](http://www.haconiwa-mag.com/)
 * [花椿 HANATSUBAKI \| 資生堂](http://hanatsubaki.shiseidogroup.jp/)
 * [北欧、暮らしの道具店](https://hokuohkurashi.com/)
