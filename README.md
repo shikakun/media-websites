@@ -1,10 +1,12 @@
 # :newspaper: Media Websites
 
+* [AdverTimes（アドタイ）\| 広告界のニュース＆情報ポータルサイト](https://www.advertimes.com/)
 * [Airbnb Design](http://airbnb.design/)
 * [bound baw](http://boundbaw.com/)
 * [文春オンライン \| 週刊文春も読めるニュースサイト](http://bunshun.jp/)
 * [スイーツとお菓子のおいしい話が詰まった、CAKE\.TOKYO](https://cake.tokyo/)
 * [日刊サイゾー](http://www.cyzo.com/)
+* [電通報](http://dentsu-ho.com/)
 * [EDIT LIFE](http://editlife.jp/)
 * [inside FICC \| FICCのカルチャーを紹介するブログ](https://www.ficc.jp/inside/)
 * [Financial Times](https://www.ft.com/)
