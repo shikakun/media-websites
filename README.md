@@ -29,6 +29,7 @@
 * [特集 \- Yahoo\!ニュース](http://news.yahoo.co.jp/feature)
 * [経済、株価、ビジネス、政治のニュース:日経電子版](http://www.nikkei.com/)
 * [Patchwork \- An online magazine for digital product teams\.](http://patchworkmagazine.jp/)
+* [Qetic](https://qetic.jp/)
 * [スチーヴ \| そうか、僕らはくらしのプラットフォームを作りたかったんだ。](https://schiive.com/)
 * [SCRAP AND BUILD](http://scrapandbuild.jp/)
 * [少年ジャンプ＋｜少年ジャンプが贈る最強！無料！のWebマンガ誌](https://shonenjumpplus.com/)
