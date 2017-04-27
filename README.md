@@ -43,4 +43,5 @@
 * [MASSAGE](http://themassage.jp/)
 * [トピックス｜Nintendo](https://topics.nintendo.co.jp/index.html)
 * [Wantedly Feed \| シゴトでココロオドルナレッジがここに](https://www.wantedly.com/feed)
+* [WPJ \- デザイナー、エンジニア、マーケターの「掛け算」のスキルアップを応援する パスファインディング・メディア](https://www.webprofessional.jp/)
 * [WIRED\.jp](http://wired.jp/)
